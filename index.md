@@ -1,3 +1,19 @@
-# Welcome to my blog
+# Portfolio
 
-I'm glad you are here. I plan to talk about ...
+<details>
+  <summary>Skills</summary>
+    
+- **HTML (Advanced)**
+  - Web Components
+  - Semantic
+  - Accessibility
+
+- **CSS (Intermediate)**
+  - Architeture
+  - SASS
+  - Animations
+  
+- **JavaScript (Beguinner)**
+  - ES6
+  - DOM Manipulation
+</details>
